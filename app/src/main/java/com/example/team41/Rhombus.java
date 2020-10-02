@@ -1,5 +1,3 @@
 package com.example.team41;
 
-public class Rhombus extends Shape {
-
-}
+public class Rhombus extends Shape {}

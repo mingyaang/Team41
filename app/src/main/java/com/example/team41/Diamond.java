@@ -1,4 +1,3 @@
 package com.example.team41;
 
-public class Diamond extends Shape {
-}
+public class Diamond extends Shape {}
